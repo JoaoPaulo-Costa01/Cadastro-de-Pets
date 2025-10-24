@@ -10,6 +10,8 @@ namespace ProjetoPets.Models {
 
 
         [Required(ErrorMessage = "A Espécie é obrigatória.")]
+        [StringLength(1)]
+        [RegularExpression("^[CcGg]$", ErrorMessage = "A espécie deve ser 'C' (Cachorro) ou 'G' (Gato).")]
         public string Especie { get; set; }
 
 
