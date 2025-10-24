@@ -52,7 +52,7 @@ A API expõe os seguintes métodos para o gerenciamento dos pets:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [(https://github.com/JoaoPaulo-Costa01/Cadastro-de-Pets)]
+    git clone https://github.com/JoaoPaulo-Costa01/Cadastro-de-Pets
     cd ProjetoPets 
     ```
 
