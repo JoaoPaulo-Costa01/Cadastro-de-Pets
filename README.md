@@ -50,7 +50,8 @@ A API expõe os seguintes métodos para o gerenciamento dos pets:
 
 ## 🖼️ Imagens do Swagger e do SQL Server
 <img width="1902" height="941" alt="image" src="https://github.com/user-attachments/assets/5ec7869d-b670-4a94-b5d4-f635d20c70c3" />
-<img width="1564" height="714" alt="image" src="https://github.com/user-attachments/assets/b15a20ce-95d1-472d-bf2c-f4d65318cb0e" />
+<img width="1564" height="668" alt="image" src="https://github.com/user-attachments/assets/e4ef99bf-4ca0-469a-b490-0dd88078473e" />
+
 
 
 ## ⚙️ Como Executar o Projeto
